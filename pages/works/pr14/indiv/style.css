@@ -1,0 +1,29 @@
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+.bl_el{
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  animation-name: blinker;
+  animation-iteration-count: infinite;
+  animation-duration: 0.3s;
+  -webkit-animation-name: blinker;
+  -webkit-animation-duration: 0.3s;
+  -webkit-animation-literation-count: infinite;
+  
+  
+}
+@keyframes blinker{
+  from {opacity: 1.0;}
+  to {opacity: 0.0;}
+}
+@-webkit-keyframes blinker{
+  from{opacity: 1.0;}
+  to{opacity: 0.0; }
+}

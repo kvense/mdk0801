@@ -1,0 +1,66 @@
+header{
+    background: url(125.png);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.dev{
+    padding: 0px 15px 0px 0px;
+    width: 100px;
+    height: 100px;
+    order: 3;
+    
+}
+.lyna{
+    padding: 0px 40px 20px 0px;
+    width: 100px;
+    height: 100px;
+    order: 2;
+}
+.menu{
+    padding: 40px;
+    width: 100px;
+    height: 50px;
+    align-items: flex-start;
+}
+h1{
+    padding: 0px 0px 0px 30px;
+}
+.hed{
+    display: flex;
+    justify-content: space-between;
+}
+.text {
+    display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 10px 10px;
+}
+.text p{
+    font-size: 15px;
+}
+body{
+    width: 50%;
+}
+
+.con{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    gap: 10px 10px ;
+}
+.tip{
+    border: 1px solid black;
+}
+.bash{
+    border: 1px solid black;
+}
+
+.sd{
+    border: 1px solid black;
+}
+.sss{
+    border: 1px solid black;
+}

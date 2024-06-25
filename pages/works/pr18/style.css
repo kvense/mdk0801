@@ -1,0 +1,23 @@
+body{
+    display: grid;
+    
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+.but{
+    position: relative;
+    left: 330px;
+    background-color: gray;
+    color: yellow;
+}
+.text{
+    width: 400px;
+
+}
+.text2{
+    position: relative;
+    right: 220px;
+}
+.p2{
+    width: 400px;
+}

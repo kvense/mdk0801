@@ -1,0 +1,172 @@
+.div1{
+    background: url(menu_fon.png) center/cover;
+    display: grid;
+    grid-template-columns: 0.35fr 1fr 0.2fr;
+    grid-template-rows: 1fr;
+    margin: auto;
+}
+.logo{
+    display: flex;
+    margin: auto;
+    padding: auto;
+}
+.h_text{
+    display: flex;
+    gap: 100px;
+    padding: 20px 0px 0px 0px
+}
+.dsds {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
+.lupa {
+    height: 30px;
+   width: 40px;
+}
+body {
+    background-color: rgb(221, 221, 221);
+    width: 80%;
+    margin: auto;
+}
+.fontext{
+    width: 35%;
+    padding: 0px 0px 0px 90px;
+}
+.div2{
+    background: url(fon_2.png) center/cover;
+    padding: 0px 0px 60px 0px;
+    margin: 100px;
+}
+.text_under_foto{
+    margin: 0%;
+}
+.teg_under{
+    margin: 0%;
+}
+.foto_foto{
+    width: 11px;
+    height: 12px;
+    padding: 3px 3px 0px 3px;
+    margin: 0%
+}
+.div3{
+    background: url(fon_3.png)center/cover;
+    margin: auto;
+    margin: 90px 0px 0px 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    padding: 30px 0px 50px 65px ; 
+}
+.foto1{
+    display: flex;
+}
+.foto2{
+    display: flex;
+}
+.foto3{
+    display: flex;
+}
+.kar{
+    margin-left: auto;
+    padding: 0px 70px 0px 0px;
+}
+.nastroika_ne_odinokogo_foto {
+    width: 20px;
+    height: 19px;
+  }
+.nas_text {
+    margin: 0%;
+    padding: 0px 12px 0px 12px;
+}
+.nas_text2 {
+    width: 90%;
+    padding: 0px 0px 50px 0px;
+}
+.div4{
+    background: url(fon_4.png) center/cover;
+    margin: 90px 0px 0px 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+.class1{
+    display: flex;
+}
+.class2{
+    display: flex;
+}
+.tar_ms {
+    border-bottom: 3px gray solid;
+    padding: 0px 50px 0px 50px;
+    margin: 0px 50px 30px 50px;
+}
+.tar_m {
+    background-color: white;
+    padding: 0px 0px 0px 0px;
+}
+.tar_m2 {
+    background-color: white;
+    font-size: 20px;
+}
+.tar_ms2 {
+    border-bottom: 3px gray solid;
+    padding: 0px 50px 0px 50px;
+    margin: 0px 50px 30px 50px;
+}
+.karen {
+    padding: 0px 0px 0px 40px;
+}
+.tar_ms3 {
+    border-bottom: 3px gray solid;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 20px 0px 20px;
+}
+.one_class {
+    margin: 5px 0px 5px 0px;
+}
+.ride {
+    display: block;
+    margin-left: auto;
+}
+.div5{
+    margin: 90px 0px 0px 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 100px;
+}
+.r_tar_m{
+    display: grid;
+    grid-template-columns: 0.6fr 1fr;
+    grid-template-rows: 1fr;
+}
+.but1{
+    margin: 0px 240px;
+    background-color: aliceblue;
+    font-weight: 100;
+}
+.log2{
+    margin: auto;
+}
+.fot_text{
+    display: flex;
+    gap: 10px;
+    margin: 10px 0px 0px 0px;
+}
+.fot_text2{
+    margin: 25px 0px 0px 0px;
+}
+.fot_text3{
+    display: block;
+    margin: 0%;
+}
+.fot{
+    background: url(fon_7.png) center/cover;
+    margin: 90px 0px 0px 0px;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 0.7fr;
+    grid-template-rows: 1fr;
+    color: gray;
+}

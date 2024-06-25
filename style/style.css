@@ -1,0 +1,48 @@
+
+body {
+    background-color: rgb(250, 255, 208);
+}
+header{
+    color:black;
+}
+h1{
+    font-size: 24px;
+}
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 18px;
+}
+p{
+    font-size: 16px;
+}
+div{
+    font-size: 16px;
+}
+img {
+    width: 400px;
+}
+.naviki{
+    border: 1px solid black;
+    
+}
+.neg{
+    display: flex;
+    gap: 20px;
+}
+.no1{
+    background: url(/img/2.jpg);
+    width: 300px;
+    height: 200px;
+}
+.no2{
+    background: url(/img/images.jpg);
+    width: 300px;
+    height: 150px;
+}
+.no3{
+    background: url(/img/2202191905_preview_7425a2bc2672b521_1920xH.jpg);
+    width: 300px;
+    height: 150px;
+}
